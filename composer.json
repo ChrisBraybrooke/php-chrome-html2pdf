@@ -27,6 +27,5 @@
         "psr-4": {
             "Spiritix\\Html2Pdf\\Tests\\": "tests/php/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
